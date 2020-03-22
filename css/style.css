@@ -80,3 +80,14 @@ body {
   display: flex; }
   .post-tags p {
     margin: 0 10px 0 0; }
+
+  .tag-size-0 {font-size: 12px; color: red;}
+  .tag-size-1 {font-size: 14px; color: green;}
+  .tag-size-2 {font-size: 16px; color: blue;}
+  .tag-size-3 {font-size: 18px; color: yellow;}
+  .tag-size-4 {font-size: 20px; color: pink;}
+  .tag-size-5 {font-size: 22px; color: bisque;}
+  .tag-size-6 {font-size: 24px; color: aliceblue;}
+  .tag-size-7 {font-size: 26px; color: aqua;}
+  .tag-size-8 {font-size: 28px; color: blueviolet}
+  .tag-size-9 {font-size: 30px; color: brown;}

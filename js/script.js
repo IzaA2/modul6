@@ -68,14 +68,14 @@
     }
 
     titleList.innerHTML = html;
-  }
 
-  generateTitleLinks();
-
-  const links = document.querySelectorAll('.titles a');
+    const links = document.querySelectorAll('.titles a');
     for (let link of links) {
       link.addEventListener('click', titleClickHandler);
     }
+  }
+
+  generateTitleLinks();
 
   // TAG HANDLERS
   function calculateTagsParams(tags) {
